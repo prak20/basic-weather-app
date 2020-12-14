@@ -1,2 +1,2 @@
 # weatherapp-expressjs
-The Live Website can be seen at http://weatherweb-praktech.herokuapp.com/
+The Live Website can be seen at [Weather-App](http://weatherweb-praktech.herokuapp.com/)
